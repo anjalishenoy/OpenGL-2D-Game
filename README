@@ -1,0 +1,9 @@
+Collect the coins
+
+Author: Anjali Shenoy
+RollNo: 201401114
+
+Simple and Fun game where you need to collect the Good coins, and be careful of the bad ones in the 3 tries given to you.
+
+to run game, type in terminal:
+$ make; ./game
